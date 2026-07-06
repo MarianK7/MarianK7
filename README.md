@@ -4,8 +4,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-- 🎓 I'm currently studying Software Engineering, Master's degree programme at [MUNI FI](https://www.fi.muni.cz/).
-- 💼 I'm currently working as Bachelor's Software Engineer Support at [Honeywell](https://www.honeywell.com/us/en). 
+- 🎓 I have successfully finished studying Software Engineering, Master's degree programme at [MUNI FI](https://www.fi.muni.cz/).
+- 💼 I'm currently working as Software Engineer at [Honeywell Aerospace](https://www.honeywellaerospace.com/). 
 - 🌱 I'm currently learning Java.
 - 🔭 I'm interested in cybersecurity especially in penetration testing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marian-keszi-ab3205166/) or via [email](mailto:marian.keszi@gmail.com).
